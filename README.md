@@ -68,8 +68,6 @@ This hands-on lab includes the following exercises:
 - [Exercise 5: Publish and share content](#Exercise5)
 - [Exercise 6: Do more with Power BI Desktop](#Exercise6)
  
-Estimated time to complete this lab: **60** minutes.
-
 <a name="Exercise1"></a>
 ## Exercise 1: Connect to a database ##
 
